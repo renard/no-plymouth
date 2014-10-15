@@ -1,0 +1,16 @@
+Source: no-plymouth
+Section: devel
+Priority: optional
+Maintainer: Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org> 
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.3
+
+Package: no-plymouth
+Architecture: all
+Depends: ${misc:Depends}
+Provides: plymouth
+Description: totaly disable plymouth
+ Based upon plymouth-disabler, this disables plymouth by providing the
+ plymouth package.
+ .
+ Once installed you can run dpkg -P plymouth.
