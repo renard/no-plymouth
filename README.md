@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/renard/no-plymouth.svg)](https://api.travis-ci.org/renard/no-plymouth)
+[![Build Status](https://travis-ci.org/renard/no-plymouth.svg?branch=master)](https://travis-ci.org/renard/no-plymouth)
 
 
 Remove plymouth because who needs it on servers?
