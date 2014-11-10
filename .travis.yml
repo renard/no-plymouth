@@ -1,0 +1,12 @@
+---
+
+language: generic
+
+before_install:
+  - sudo apt-get update -qq
+
+install:
+  - sudo apt-get install -qq debhelper devscripts
+
+script: debuild --no-tgz-check -I.git -i'\.git/' -us -uc
+  
