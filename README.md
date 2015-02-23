@@ -3,7 +3,20 @@
 [![Follow me on twitter](http://img.shields.io/badge/Twitter-Follow-00aced.svg)](https://twitter.com/intent/follow?region=follow_link&screen_name=renard_0&tw_p=followbutton)
 
 
-Remove plymouth because who needs it on servers?
+# Remove plymouth because who needs it on servers?
+
+## Package
+
+You can find built packages on [Launchpad](https://launchpad.net/~renard0/+archive/ubuntu/utils). Add following line in your `sources.list` file:
+
+	deb http://ppa.launchpad.net/renard0/utils/ubuntu trusty main
+
+Run:
+	sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 92100D58
+	sudo apt-get update
+	sudo apt-get install no-plymouth
+
+## Manual installation
 
 Compile:
 
