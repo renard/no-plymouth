@@ -1,5 +1,5 @@
-no-plymouth (1.0) unstable; urgency=low
+no-plymouth (1.0) trusty; urgency=low
 
   * Initial version.
 
- -- Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>  Wed, 15 Oct 2014 21:04:16 +0200
+ -- Sébastien Gross <seb-ppa@chezwam.org>  Wed, 15 Oct 2014 21:04:16 +0200

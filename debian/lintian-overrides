@@ -1,4 +1,2 @@
 no-plymouth: new-package-should-close-itp-bug
 no-plymouth: empty-binary-package
-no-plymouth changes: changed-by-address-malformed Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>
-no-plymouth source: maintainer-address-malformed Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>

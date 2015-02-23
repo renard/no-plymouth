@@ -1,7 +1,7 @@
 Source: no-plymouth
 Section: devel
 Priority: optional
-Maintainer: Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org> 
+Maintainer: Sébastien Gross <seb-ppa@chezwam.org>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.3
 
